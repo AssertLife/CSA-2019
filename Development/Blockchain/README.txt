@@ -1,0 +1,1 @@
+Execute last_block_hash.py and get the key

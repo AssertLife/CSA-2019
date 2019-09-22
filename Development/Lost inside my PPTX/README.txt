@@ -1,0 +1,1 @@
+Drop solve.py in real_key.rar and get the key.
